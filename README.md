@@ -2,7 +2,7 @@
 
 ## Step-1
 
-Perform the below step only when you launch a new ec2 instance. This command updates all the packages with latest version..
+Perform the below step only when you launch a new ec2 instance. This command updates all the packages with latest version.
 
 ```bash
 sudo yum update -y
